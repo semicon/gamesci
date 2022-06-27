@@ -1,0 +1,31 @@
+﻿{
+	"version": 1656298938,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/trash-sheet0.png",
+		"images/btntrue-sheet0.png",
+		"images/blackground-sheet0.png",
+		"images/symbol-sheet0.png",
+		"images/symbol-sheet1.png",
+		"images/group2-sheet0.png",
+		"images/group1-sheet0.png",
+		"images/group1-sheet1.png",
+		"images/group1-sheet2.png",
+		"images/group3-sheet0.png",
+		"images/boxrand-sheet0.png",
+		"images/popup-sheet0.png",
+		"images/button_start-sheet0.png",
+		"images/box3-sheet0.png",
+		"images/box1-sheet0.png",
+		"images/box2-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
